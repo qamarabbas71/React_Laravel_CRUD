@@ -1,0 +1,41 @@
+.add_studend{
+    /* height: 450px; */
+    height: 430px;
+    width: 300px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: rgb(151, 200, 205);
+    /* background-color: rgb(113, 128, 177); */
+    position: sticky;
+    top: 1;
+}
+.heading{
+    background-color: rgb(103, 190, 200);
+    border-radius: 8px;
+    color: whitesmoke;
+}
+label{
+    /* margin-left: -125px; */
+    margin-right: 150px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+input{
+    border: none;
+    border-radius: 8px;
+    width: 230px;
+    height: 30px;
+}
+input:focus{
+    outline: none;
+}
+.add_btn{
+    width: 98px;
+    margin-top: 20px;
+    border-radius: 8px;
+    margin-left: 1px;
+}
+.alt_msg{
+    background-color: rgb(57, 213, 187);
+    margin-top: 100px;
+}
